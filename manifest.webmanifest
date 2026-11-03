@@ -1,0 +1,12 @@
+{
+  "name": "拾日 Schedule · 日历时间轴每日打卡",
+  "short_name": "拾日",
+  "description": "玫瑰藤蔓与粉色波点的私人日历、时间轴和每日打卡",
+  "lang": "zh-CN",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fffafc",
+  "theme_color": "#fffafc",
+  "icons": [{"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any"},{"src":"./apple-touch-icon.png","sizes":"180x180","type":"image/png"}]
+}
